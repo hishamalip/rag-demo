@@ -89,4 +89,8 @@ for i, doc in enumerate(docs, 1):
     print(f"{doc.page_content}\n")
 
 print("=" * 60)
+<<<<<<< HEAD
 print("Done! Try different queries or parameters to see the differences.")
+=======
+print("Done! Try different queries or parameters to see the differences.")
+>>>>>>> 435fa16 (added similarity with threshold and MMR retrieval methods, added muti query retrieval changes)
